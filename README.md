@@ -1,16 +1,20 @@
-## Hi there 👋
+## <h3 align="center"> ☕︎  Bem vindos ao meu portfolio no Github  ☕︎ </h3>
+<br> <br/>
+## <h3 align="left">Um pouco sobre mim / About me</h3>
+Profissional de multinacionais de tecnologia há mais de 7 anos (ex Huawei e TIM), atualmente direciono minha carreira para Engenheiro de Automação e Testes de Qualidade de Software, com foco especial em novas tendências de aplicação de IA para otimizar processos de validação e entrega de software. 
+<br> <br/>
+- 🤓🧠 Atualmente estou focado em **criar agentes de IA com Claude para fazer eles assumirem a trampo do QA   -   🤖🇦🇮🦾**
+<br> <br/>
 
-<!--
-**gustavoanderson/gustavoanderson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="left">Habilidades e interesses / skills and technology interests: 🧐 </h3>
+<br> <br/>
+<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
 
-Here are some ideas to get you started:
+<br> <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center"> 🕵 Botando a mão na massa / hands-on! 🧑🏻‍💻: </h3>
+
+*[BDD testing](https://github.com/gustavoanderson/playing-with-Gherkin): praticando com Gherkin <br> <br/>
+*[Cypress applications 1](https://github.com/gustavoanderson/cypress-e2e-test-ecommerceshop): testes E2E automatizados com Cypress  <br> <br/>
+*[Cypress applications 2](https://github.com/gustavoanderson/testing-lojaebac-ui-with-cypress-and-faker): testando criação/alteração massiva de usuários de e-commerce com Cypress utilizando massa de dados faker  <br> <br/>
+*[Cypress applications 3](https://github.com/gustavoanderson/teste-api-serverest-cypress-jenkins):Testando métodos GET, POST, PUT e DELETE automatizados com Cypress.Tarefa colocada em pipeline com Jenkins.  <br> <br/>
