@@ -17,7 +17,10 @@ Profissional de multinacionais de tecnologia há mais de 7 anos (ex Huawei e TIM
 
 <h3 align="center"> 🕵 Botando a mão na massa / hands-on! 🧑🏻‍💻: </h3>
 
-*[BDD testing](https://github.com/gustavoanderson/practicing-with-Gherkin): praticando com Gherkin <br> <br/>
-*[Cypress applications 1](https://github.com/gustavoanderson/cypress-e2e-test-ecommerceshop): testes E2E automatizados com Cypress  <br> <br/>
-*[Cypress applications 2](https://github.com/gustavoanderson/testing-lojaebac-ui-with-cypress-and-faker): testando criação/alteração massiva de usuários de e-commerce com Cypress utilizando massa de dados faker  <br> <br/>
-*[Cypress applications 3](https://github.com/gustavoanderson/teste-api-serverest-cypress-jenkins):Testando métodos GET, POST, PUT e DELETE automatizados com Cypress.Tarefa colocada em pipeline com Jenkins.  <br> <br/>
+[BDD testing](https://github.com/gustavoanderson/practicing-with-Gherkin): praticando com Gherkin <br> <br/>
+[Cypress applications 1](https://github.com/gustavoanderson/cypress-e2e-test-ecommerceshop): testes E2E automatizados com Cypress  <br> <br/>
+[Cypress applications 2](https://github.com/gustavoanderson/testing-lojaebac-ui-with-cypress-and-faker): testando criação/alteração massiva de usuários de e-commerce com Cypress utilizando massa de dados faker  <br> <br/>
+[Cypress applications 3](https://github.com/gustavoanderson/teste-api-serverest-cypress-jenkins):Testando métodos GET, POST, PUT e DELETE automatizados com Cypress.Tarefa colocada em pipeline com Jenkins.  <br> <br/>
+[Prática com Appium Inspector](https://github.com/gustavoanderson/saucelab-appium-mobiletest): testando .apk de loja E-commerce <br> <br/>
+[Manejando requisições de API (Serverest)](https://github.com/gustavoanderson/postman-serverest): fazendo diferentes requisições com JSON via Postman <br> <br/>
+[Realizando testes de carga na API](https://github.com/gustavoanderson/teste-carga-k6-serverest): estressando Serverest em teste de carga com grafana K6 <br> <br/>
