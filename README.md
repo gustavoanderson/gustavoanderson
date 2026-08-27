@@ -6,7 +6,7 @@
 <h3 align="center">Um pouco sobre mim / About me</h3>
 Profissional de multinacionais de tecnologia há mais de 7 anos (ex Huawei e TIM), atualmente direciono minha carreira para Engenheiro de Automação e Testes de Qualidade de Software, com foco especial em novas tendências de aplicação de IA para otimizar processos de validação e entrega de software. 
 <br> <br/>
-🤓🧠 Atualmente estou focado em criar agentes de IA com Claude, especialmente para que eu tenha um agente com skills focadas em orientar o trabalho de QA e aumentar a entrega de resultado na automação de testes.   🤖🇦🇮🦾
+🤓🧠 Atualmente estou focado em criar agentes de IA com Claude, especialmente para que eu tenha um agente com skills focadas em orientar o trabalho de QA e aumentar a entrega de resultado na automação de testes.   🤖🦾
 <br> <br/>
 
 <h3 align="center">Habilidades e interesses / skills and technology interests: 🧐 </h3>
