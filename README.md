@@ -26,4 +26,4 @@ Profissional de multinacionais de tecnologia há mais de 7 anos (ex Huawei e TIM
 [Prática com Appium Inspector](https://github.com/gustavoanderson/saucelab-appium-mobiletest): testando .apk de loja E-commerce <br> <br/>
 [Manejando requisições de API (Serverest)](https://github.com/gustavoanderson/postman-serverest): fazendo diferentes requisições com JSON via Postman <br> <br/>
 [Manejando requisições de API 2 (Hub de Leitura)](https://github.com/gustavoanderson/hub-de-leitura-testando-api): fazendo diferentes requisições em API que exige token de autenticação <br> <br/>
-[Realizando testes de carga na API](https://github.com/gustavoanderson/teste-carga-k6-serverest): estressando Serverest em teste de carga com grafana K6 <br> <br/>
+[Realizando testes de carga na API do Hub de Leitura](https://github.com/gustavoanderson/hub-de-leitura-teste-de-carga-k6): estressando API em teste de carga com Grafana K6 <br> <br/>
