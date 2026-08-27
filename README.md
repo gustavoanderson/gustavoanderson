@@ -25,4 +25,5 @@ Profissional de multinacionais de tecnologia há mais de 7 anos (ex Huawei e TIM
 [Cypress applications 5](https://github.com/gustavoanderson/cypress-lists):Teste com Cypress em listas - página de catálogo da loja de livros. Trabalhando com importação de listas em JSON para testar a busca no catálogo de livros. Também implementei exportação de reports de testes em vídeo com Cypress Cloud. <br> <br/>
 [Prática com Appium Inspector](https://github.com/gustavoanderson/saucelab-appium-mobiletest): testando .apk de loja E-commerce <br> <br/>
 [Manejando requisições de API (Serverest)](https://github.com/gustavoanderson/postman-serverest): fazendo diferentes requisições com JSON via Postman <br> <br/>
+[Manejando requisições de API 2 (Hub de Leitura)](https://github.com/gustavoanderson/hub-de-leitura-testando-api): fazendo diferentes requisições em API que exige token de autenticação <br> <br/>
 [Realizando testes de carga na API](https://github.com/gustavoanderson/teste-carga-k6-serverest): estressando Serverest em teste de carga com grafana K6 <br> <br/>
