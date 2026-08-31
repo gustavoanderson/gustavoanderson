@@ -37,7 +37,7 @@ Profissional de multinacionais de tecnologia há mais de 7 anos (ex Huawei e TIM
 
 [Cypress applications 5/Aplicações com Cypress 5](https://github.com/gustavoanderson/cypress-lists): Cypress testing with lists on a book store catalog page. Importing JSON lists to test the book catalog search and exporting video test reports with Cypress Cloud/ Teste com Cypress em listas - página de catálogo da loja de livros. Trabalhando com importação de listas em JSON para testar a busca no catálogo de livros. Também implementei exportação de reports de testes em vídeo com Cypress Cloud. <br> <br/>
 
-[Cypress + pipe Github Actions + Allure reports ](https://github.com/gustavoanderson/ci-cd-github-actions): Continuous Integration on Github Actions and allure reports with Cypress/ CI com Github Actions + relatório de testes dos testes de Cypress com Allure <br> <br/>
+[Cypress + pipe Github Actions + Allure reports ](https://github.com/gustavoanderson/ci-cd-github-actions): Continuous Integration on Github Actions and allure reports with Cypress/ CI com Github Actions + relatório de testes dos testes de Cypress com Allure ([report publicado no Github Pages](https://gustavoanderson.github.io/ci-cd-github-actions/)) <br> <br/>
 
 [Appium Inspector practice/Prática com Appium Inspector](https://github.com/gustavoanderson/saucelab-appium-mobiletest): testing an e-commerce store .apk/ testando .apk de loja E-commerce <br> <br/>
 
