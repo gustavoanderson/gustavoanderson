@@ -23,26 +23,26 @@ Profissional de multinacionais de tecnologia há mais de 7 anos (ex Huawei e TIM
 <br> <br/>
 
 <h3 align="center"> 🕵 Hands-on / Botando a mão na massa! 🧑🏻‍💻: </h3>
-<h3 align="center"> (EN / PT-BR) </h3>
+<h3 align="center"> (EN / PT-BR 🔰) </h3>
 
-[BDD testing/Teste com BDD](https://github.com/gustavoanderson/practicing-with-Gherkin): practice with Gherkin/ praticando com Gherkin <br> <br/>
+[BDD testing/Teste com BDD](https://github.com/gustavoanderson/practicing-with-Gherkin): Practice with Gherkin/ 🔰 Praticando com Gherkin.  <br> <br/>
 
-[Cypress applications 1/Aplicações com Cypress 1](https://github.com/gustavoanderson/cypress-e2e-test-ecommerceshop): automated E2E testing with Cypress/ testes E2E automatizados com Cypress  <br> <br/>
+[Cypress applications 1/Aplicações com Cypress 1](https://github.com/gustavoanderson/cypress-e2e-test-ecommerceshop): Automated E2E testing with Cypress/ 🔰 Testes E2E automatizados com Cypress.  <br> <br/>
 
-[Cypress applications 2/Aplicações com Cypress 2](https://github.com/gustavoanderson/testing-lojaebac-ui-with-cypress-and-faker): testing mass e-commerce user creation/modification with Cypress using Faker test data/ testando criação/alteração massiva de usuários de e-commerce com Cypress utilizando massa de dados faker  <br> <br/>
+[Cypress applications 2/Aplicações com Cypress 2](https://github.com/gustavoanderson/testing-lojaebac-ui-with-cypress-and-faker): Testing mass e-commerce user creation/modification with Cypress using Faker test data/ 🔰 Testando criação/alteração massiva de usuários de e-commerce com Cypress utilizando massa de dados faker.  <br> <br/>
 
-[Cypress applications 3/Aplicações com Cypress 3](https://github.com/gustavoanderson/teste-api-serverest-cypress-jenkins): automated GET, POST, PUT and DELETE methods with Cypress. Task integrated into a Jenkins pipeline/ Testando métodos GET, POST, PUT e DELETE automatizados com Cypress.Tarefa colocada em pipeline com Jenkins.  <br> <br/>
+[Cypress applications 3/Aplicações com Cypress 3](https://github.com/gustavoanderson/teste-api-serverest-cypress-jenkins): automated GET, POST, PUT and DELETE methods with Cypress. Task integrated into a Jenkins pipeline/ 🔰 Testando métodos GET, POST, PUT e DELETE automatizados com Cypress.Tarefa colocada em pipeline com Jenkins.   <br> <br/>
 
-[Cypress applications 4/Aplicações com Cypress 4](https://github.com/gustavoanderson/hub-de-leitura-cypress-ui/tree/main): Cypress testing on a book store, validating required form behavior on the email submission screen/ Teste com Cypress numa loja de livros Explorando testes validando comportamento de formulários obrigatórios na tela de envio de e-mail. <br> <br/>
+[Cypress applications 4/Aplicações com Cypress 4](https://github.com/gustavoanderson/hub-de-leitura-cypress-ui/tree/main): Cypress testing on a book store, validating required form behavior on the email submission screen/ 🔰 Teste com Cypress numa loja de livros Explorando testes validando comportamento de formulários obrigatórios na tela de envio de e-mail.  <br> <br/>
 
-[Cypress applications 5/Aplicações com Cypress 5](https://github.com/gustavoanderson/cypress-lists): Cypress testing with lists on a book store catalog page. Importing JSON lists to test the book catalog search and exporting video test reports with Cypress Cloud/ Teste com Cypress em listas - página de catálogo da loja de livros. Trabalhando com importação de listas em JSON para testar a busca no catálogo de livros. Também implementei exportação de reports de testes em vídeo com Cypress Cloud. <br> <br/>
+[Cypress applications 5/Aplicações com Cypress 5](https://github.com/gustavoanderson/cypress-lists): Cypress testing with lists on a book store catalog page. Importing JSON lists to test the book catalog search and exporting video test reports with Cypress Cloud/ 🔰 Teste com Cypress em listas - página de catálogo da loja de livros. Trabalhando com importação de listas em JSON para testar a busca no catálogo de livros. Também implementei exportação de reports de testes em vídeo com Cypress Cloud.  <br> <br/>
 
-[Cypress + pipe Github Actions + Allure reports ](https://github.com/gustavoanderson/ci-cd-github-actions): Continuous Integration on Github Actions and allure reports with Cypress/ CI com Github Actions + relatório de testes dos testes de Cypress com Allure ([report publicado no Github Pages](https://gustavoanderson.github.io/ci-cd-github-actions/)) <br> <br/>
+[Cypress + pipe Github Actions + Allure reports ](https://github.com/gustavoanderson/ci-cd-github-actions): Continuous Integration on Github Actions and allure reports with Cypress/ 🔰 CI com Github Actions + relatório de testes dos testes de Cypress com Allure ([report published on/ 🔰 publicado no Github Pages](https://gustavoanderson.github.io/ci-cd-github-actions/)). <br> <br/>
 
-[Appium Inspector practice/Prática com Appium Inspector](https://github.com/gustavoanderson/saucelab-appium-mobiletest): testing an e-commerce store .apk/ testando .apk de loja E-commerce <br> <br/>
+[Appium Inspector practice/Prática com Appium Inspector](https://github.com/gustavoanderson/saucelab-appium-mobiletest): Testing an e-commerce store .apk/ 🔰 Testando .apk de loja E-commerce.  <br> <br/>
 
-[Handling API requests (Serverest)/Manejando requisições de API (Serverest)](https://github.com/gustavoanderson/postman-serverest): making different JSON requests using Postman/ fazendo diferentes requisições com JSON via Postman <br> <br/>
+[Handling API requests (Serverest)/Manejando requisições de API (Serverest)](https://github.com/gustavoanderson/postman-serverest): Making different JSON requests using Postman/ 🔰 Fazendo diferentes requisições com JSON via Postman.  <br> <br/>
 
-[Handling API requests 2 (Hub de Leitura)/Manejando requisições de API 2 (Hub de Leitura)](https://github.com/gustavoanderson/hub-de-leitura-testando-api): making different requests to an API that requires an authentication token/ fazendo diferentes requisições em API que exige token de autenticação <br> <br/>
+[Handling API requests 2 (Hub de Leitura)/Manejando requisições de API 2 (Hub de Leitura)](https://github.com/gustavoanderson/hub-de-leitura-testando-api): Making different requests to an API that requires an authentication token/ 🔰 Fazendo diferentes requisições em API que exige token de autenticação.  <br> <br/>
 
-[Performing load tests on the Hub de Leitura API/Realizando testes de carga na API do Hub de Leitura](https://github.com/gustavoanderson/hub-de-leitura-teste-de-carga-k6): load testing the API with Grafana K6/ estressando API em teste de carga com Grafana K6 <br> <br/>
+[Performing load tests on the Hub de Leitura API/Realizando testes de carga na API do Hub de Leitura](https://github.com/gustavoanderson/hub-de-leitura-teste-de-carga-k6): Load testing the API with Grafana K6/ 🔰 Estressando API em teste de carga com Grafana K6. <br> <br/>
