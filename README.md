@@ -9,11 +9,26 @@ __[EN]__
 
 Technology professional with over 7 years of experience at multinational companies (ex-Huawei and TIM), currently directing my career toward Software Quality and Test Automation Engineering, with a strong focus on emerging AI applications to optimize software validation and delivery processes. <br> <br/> 🤓🧠 I am currently focused on building AI agents with Claude, especially an agent with QA-focused skills designed to guide QA activities and increase the efficiency and output of test automation. 🤖🦾 <br> <br/>
 
-__[PT-BR]__
+__[PT-BR]__ 🔰
 
 Profissional de multinacionais de tecnologia há mais de 7 anos (ex Huawei e TIM), atualmente direciono minha carreira para Engenheiro de Automação e Testes de Qualidade de Software, com foco especial em novas tendências de aplicação de IA para otimizar processos de validação e entrega de software. 
 <br> <br/>
-🤓🧠 Atualmente estou focado em criar agentes de IA com Claude, especialmente para que eu tenha um agente com skills focadas em orientar o trabalho de QA e aumentar a entrega de resultado na automação de testes.   🤖🦾
+
+<br> <br/>
+<h3 align="center"> 🤓🧠 Using AI to build software with quality/ 🔰 Aliando IA para desenvolvimento e qualidade de software 🤖🦾</h3> 
+
+<h4 align="center"> Introducing my new App: / Apresento-lhes meu novo app:</h4> 
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [DevLingo](https://github.com/gustavoanderson/DevLingo/releases/tag/v1.0.0)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DevLingo](https://raw.githubusercontent.com/gustavoanderson/DevLingo/main/docs/imagens/banner.png)
+[![Flutter](https://img.shields.io/badge/Flutter-3.47-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
+[![Dart](https://img.shields.io/badge/Dart-3.13-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
+[![Python](https://img.shields.io/badge/Python-validação-3776AB?style=flat-square&logo=python&logoColor=white)](tools/)
+[![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
+[![SQLite](https://img.shields.io/badge/SQLite-offline--first-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
+
+A "Duolingo-like" app for learning programming languages that I built together with Claude Code. Since it’s for personal use, I turned my need to keep practicing software development into an opportunity to create a learning app inspired by Duolingo — addictive, engaging, and designed to be used on the go, wherever you are (Uber, bus, subway, train, or even getting a ride) <br> <br/> 🔰 Um app para aprendizado "Duolingo-like" de linguagens de programação/teoria para desenvolvimento de software que fiz junto com o Claude Code. Como é para uso próprio, transformei minha necessidade de querer continuar praticando desenvolvimento para criar um app de aprendizado tipo o Duolingo, que é viciante, engajante e que você pode fazer _on the go_  indo pra quaisquer lugar (Uber, busão, metrô, trem, carona).
+<br> <br/>
+
 <br> <br/>
 
 <h3 align="center">Skills and technology interests/ Habilidades e interesses : 🧐 </h3>
@@ -23,7 +38,7 @@ Profissional de multinacionais de tecnologia há mais de 7 anos (ex Huawei e TIM
 <br> <br/>
 
 <h3 align="center"> 🕵 Hands-on / Botando a mão na massa! 🧑🏻‍💻: </h3>
-<h3 align="center"> (EN / PT-BR 🔰) </h3>
+<h5 align="center"> (EN / PT-BR 🔰) </h5>
 
 [BDD testing/Teste com BDD](https://github.com/gustavoanderson/practicing-with-Gherkin): Practice with Gherkin/ 🔰 Praticando com Gherkin.  <br> <br/>
 
