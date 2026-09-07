@@ -37,7 +37,7 @@ A "Duolingo-like" app for learning programming languages that I built together w
 
 <br> <br/>
 
-<h3 align="center"> 🕵 Hands-on / Botando a mão na massa! 🧑🏻‍💻: </h3>
+<h3 align="center"> 🕵 QA Hands-on! / Botando a mão na massa enquanto QA! 🧑🏻‍💻: </h3>
 <h5 align="center"> (EN / PT-BR 🔰) </h5>
 
 [BDD testing/Teste com BDD](https://github.com/gustavoanderson/practicing-with-Gherkin): Practice with Gherkin/ 🔰 Praticando com Gherkin.  <br> <br/>
