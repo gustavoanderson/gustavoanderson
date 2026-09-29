@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="140" viewBox="0 0 1000 140" role="img" aria-label="Tested. Then shipped.">
+  <defs>
+    <linearGradient id="fb" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0FB5AE"/>
+      <stop offset="0.5" stop-color="#0E3A5C"/>
+      <stop offset="1" stop-color="#0A1628"/>
+    </linearGradient>
+    <style>
+      .w { animation: drift 10s linear infinite; }
+      .w2 { animation: drift 16s linear infinite reverse; }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-1000px); } }
+      .t { font: 700 24px 'Segoe UI', Ubuntu, Arial, sans-serif; fill: #FFFFFF; }
+      .ok { font: 700 24px 'Segoe UI', Ubuntu, Arial, sans-serif; fill: #A3E635; }
+    </style>
+  </defs>
+  <g class="w2"><path fill="#2DD4BF" fill-opacity="0.35" d="M0 30 Q125 55 250 30 T500 30 T750 30 T1000 30 T1250 30 T1500 30 T1750 30 T2000 30 V140 H0 Z"/></g>
+  <g class="w"><path fill="url(#fb)" d="M0 45 Q125 70 250 45 T500 45 T750 45 T1000 45 T1250 45 T1500 45 T1750 45 T2000 45 V140 H0 Z"/></g>
+  <text x="500" y="108" text-anchor="middle"><tspan class="ok">✓ </tspan><tspan class="t">Tested. Then shipped.</tspan></text>
+</svg>
