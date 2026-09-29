@@ -1,63 +1,301 @@
-## <h3 align="center"> ☕︎  Welcome to my GitHub! / Bem vindos ao meu portfolio no Github!  ☕︎ </h3>
+<div align="center">
 
-</p> <h5 align="center">Find me on LinkedIn: ╰┈➤  <a href="https://linkedin.com/in/gustavo-anderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gustavo-anderson" height="30" width="40" /></a>
-</p> </h5>
-<br> <br/>
-<h3 align="center">About me / Um pouco sobre mim </h3>
+<img src="./assets/header.svg" width="100%" alt="Gustavo Anderson — QA Engineer · Test Automation · AI for Quality" />
 
-__[EN]__
+<img
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=3200&pause=900&color=7CF5C8&center=true&vCenter=true&width=760&lines=Automated+UI%2C+API%2C+mobile+and+load+tests.;CI+pipelines+that+publish+their+own+reports.;Finding+the+bug+before+the+customer+does.;Using+AI+to+make+QA+faster+and+sharper."
+  alt="Typing intro"
+/>
 
-Technology professional with over 7 years of experience at multinational companies (ex-Huawei and TIM), currently directing my career toward Software Quality and Test Automation Engineering, with a strong focus on emerging AI applications to optimize software validation and delivery processes. <br> <br/> 🤓🧠 I am currently focused on building AI agents with Claude, especially an agent with QA-focused skills designed to guide QA activities and increase the efficiency and output of test automation. 🤖🦾 <br> <br/>
+<br />
 
-__[PT-BR]__ 🔰
+![Curitiba](https://img.shields.io/badge/Curitiba-Brazil_%C2%B7_UTC%E2%88%923-0D1117?style=flat-square&labelColor=0D1117&color=0FB5AE&logo=googlemaps&logoColor=0FB5AE)
+![Focus](https://img.shields.io/badge/Focus-QA_%26_Test_Automation-0D1117?style=flat-square&labelColor=0D1117&color=2DD4BF&logo=cypress&logoColor=2DD4BF)
+![AI](https://img.shields.io/badge/Exploring-AI_for_Quality-0D1117?style=flat-square&labelColor=0D1117&color=7CF5C8&logo=anthropic&logoColor=7CF5C8)
 
-Profissional de multinacionais de tecnologia há mais de 7 anos (ex Huawei e TIM), atualmente direciono minha carreira para Engenheiro de Automação e Testes de Qualidade de Software, com foco especial em novas tendências de aplicação de IA para otimizar processos de validação e entrega de software. 
-<br> <br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--anderson-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0D1117)](https://www.linkedin.com/in/gustavo-anderson)
+[![Email](https://img.shields.io/badge/Email-gustavoanderson.me@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=0FB5AE&labelColor=0D1117)](mailto:gustavoanderson.me@gmail.com)
 
-<br> <br/>
-<h3 align="center"> 🤓🧠 Using AI to build software with quality/ 🔰 Aliando IA para desenvolvimento e qualidade de software 🤖🦾</h3> 
+<br />
 
-<h4 align="center"> Introducing my new App: / Apresento-lhes meu novo app:</h4> 
+### 🌐 **[English](#-about-me)** · **[Português](#-sobre-mim)**
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [DevLingo](https://github.com/gustavoanderson/DevLingo/releases)  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;![DevLingo](https://raw.githubusercontent.com/gustavoanderson/DevLingo/main/docs/imagens/banner.png)
-[![Flutter](https://img.shields.io/badge/Flutter-3.47-02569B?style=flat-square&logo=flutter&logoColor=white)](https://flutter.dev)
-[![Dart](https://img.shields.io/badge/Dart-3.13-0175C2?style=flat-square&logo=dart&logoColor=white)](https://dart.dev)
-[![Python](https://img.shields.io/badge/Python-validação-3776AB?style=flat-square&logo=python&logoColor=white)](tools/)
-[![Firebase](https://img.shields.io/badge/Firebase-Auth%20%2B%20Firestore-FFCA28?style=flat-square&logo=firebase&logoColor=black)](https://firebase.google.com)
-[![SQLite](https://img.shields.io/badge/SQLite-offline--first-003B57?style=flat-square&logo=sqlite&logoColor=white)](https://sqlite.org)
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:2DD4BF,100:0D1117&section=header" width="100%" alt="divider" />
 
-A "Duolingo-like" app for learning programming languages that I built together with Claude Code. Since it’s for personal use, I turned my need to keep practicing software development into an opportunity to create a learning app inspired by Duolingo — addictive, engaging, and designed to be used on the go, wherever you are (Uber, bus, subway, train, or even getting a ride) <br> <br/> 🔰 Um app para aprendizado "Duolingo-like" de linguagens de programação/teoria para desenvolvimento de software que fiz junto com o Claude Code. Como é para uso próprio, transformei minha necessidade de querer continuar praticando desenvolvimento para criar um app de aprendizado tipo o Duolingo, que é viciante, engajante e que você pode fazer _on the go_  indo pra quaisquer lugar (Uber, busão, metrô, trem, carona).
-<br> <br/>
+</div>
 
-<br> <br/>
+## 🧪 About Me
 
-<h3 align="center">Skills and technology interests/ Habilidades e interesses : 🧐 </h3>
-<br> <br/>
-<p align="left"> <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I'm **Gustavo Anderson**, a QA engineer from Curitiba. I've been working in software quality since 2023, testing an online study platform (mock exams and exercise lists) through manual and exploratory testing, and building automated test suites on the side to cover UI, API, mobile and performance.
 
-<br> <br/>
+I came to QA the long way. I spent **7+ years in telecom at multinational companies (Huawei and TIM)** as a project manager in network deployment, where a missed detail meant a site that didn't go live. I also worked in technical support and customer success, handling enterprise accounts at risk of churn. That's where I learned that most bugs are found by customers first, and that's exactly what I want to prevent.
 
-<h3 align="center"> 🕵 QA Hands-on! / Botando a mão na massa enquanto QA! 🧑🏻‍💻: </h3>
-<h5 align="center"> (EN / PT-BR 🔰) </h5>
+> ### ✅ Find the problem before the customer does, and leave evidence that it was tested.
 
-[BDD testing/Teste com BDD](https://github.com/gustavoanderson/practicing-with-Gherkin): Practice with Gherkin/ 🔰 Praticando com Gherkin.  <br> <br/>
+Today I split my time between three fronts: **test automation** across layers, **quality inside the pipeline** (CI, reports, performance thresholds), and **AI applied to QA**, building agents with Claude to guide QA activities and speed up test automation.
 
-[Cypress applications 1/Aplicações com Cypress 1](https://github.com/gustavoanderson/cypress-e2e-test-ecommerceshop): Automated E2E testing with Cypress/ 🔰 Testes E2E automatizados com Cypress.  <br> <br/>
+```text
+▸ Primary     QA · Test Automation · Cypress · Playwright
+▸ Secondary   API & Performance Testing · CI/CD · Mobile (Appium)
+▸ Emerging    AI-Assisted QA · Claude Agents · Claude Code
+```
 
-[Cypress applications 2/Aplicações com Cypress 2](https://github.com/gustavoanderson/testing-lojaebac-ui-with-cypress-and-faker): Testing mass e-commerce user creation/modification with Cypress using Faker test data/ 🔰 Testando criação/alteração massiva de usuários de e-commerce com Cypress utilizando massa de dados faker.  <br> <br/>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:2DD4BF,100:0D1117&section=header" width="100%" alt="divider" />
+</div>
 
-[Cypress applications 3/Aplicações com Cypress 3](https://github.com/gustavoanderson/teste-api-serverest-cypress-jenkins): automated GET, POST, PUT and DELETE methods with Cypress. Task integrated into a Jenkins pipeline/ 🔰 Testando métodos GET, POST, PUT e DELETE automatizados com Cypress.Tarefa colocada em pipeline com Jenkins.   <br> <br/>
+## 🎯 QA Focus
 
-[Cypress applications 4/Aplicações com Cypress 4](https://github.com/gustavoanderson/hub-de-leitura-cypress-ui/tree/main): Cypress testing on a book store, validating required form behavior on the email submission screen/ 🔰 Teste com Cypress numa loja de livros Explorando testes validando comportamento de formulários obrigatórios na tela de envio de e-mail.  <br> <br/>
+<table>
+<tr>
+<td width="33%" valign="top">
 
-[Cypress applications 5/Aplicações com Cypress 5](https://github.com/gustavoanderson/cypress-lists): Cypress testing with lists on a book store catalog page. Importing JSON lists to test the book catalog search and exporting video test reports with Cypress Cloud/ 🔰 Teste com Cypress em listas - página de catálogo da loja de livros. Trabalhando com importação de listas em JSON para testar a busca no catálogo de livros. Também implementei exportação de reports de testes em vídeo com Cypress Cloud.  <br> <br/>
+### 🖥️ Test Automation
 
-[Cypress + pipe Github Actions + Allure reports ](https://github.com/gustavoanderson/ci-cd-github-actions): Continuous Integration on Github Actions and allure reports with Cypress/ 🔰 CI com Github Actions + relatório de testes dos testes de Cypress com Allure ([report published on/ 🔰 publicado no Github Pages](https://gustavoanderson.github.io/ci-cd-github-actions/)). <br> <br/>
+*Covering every layer.*
 
-[Appium Inspector practice/Prática com Appium Inspector](https://github.com/gustavoanderson/saucelab-appium-mobiletest): Testing an e-commerce store .apk/ 🔰 Testando .apk de loja E-commerce.  <br> <br/>
+`UI / E2E` `API REST` `Mobile`
+`Page Objects` `Custom Commands`
+`Faker` `Fixtures` `Data-driven`
+`Contract Testing` `BDD`
 
-[Handling API requests (Serverest)/Manejando requisições de API (Serverest)](https://github.com/gustavoanderson/postman-serverest): Making different JSON requests using Postman/ 🔰 Fazendo diferentes requisições com JSON via Postman.  <br> <br/>
+</td>
+<td width="33%" valign="top">
 
-[Handling API requests 2 (Hub de Leitura)/Manejando requisições de API 2 (Hub de Leitura)](https://github.com/gustavoanderson/hub-de-leitura-testando-api): Making different requests to an API that requires an authentication token/ 🔰 Fazendo diferentes requisições em API que exige token de autenticação.  <br> <br/>
+### ⚙️ Quality in the Pipeline
 
-[Performing load tests on the Hub de Leitura API/Realizando testes de carga na API do Hub de Leitura](https://github.com/gustavoanderson/hub-de-leitura-teste-de-carga-k6): Load testing the API with Grafana K6/ 🔰 Estressando API em teste de carga com Grafana K6. <br> <br/>
+*Tests that run themselves.*
+
+`GitHub Actions` `Jenkins`
+`Allure Reports` `Cypress Cloud`
+`Load & Stress Testing`
+`Performance Thresholds`
+`Evidence & Traceability`
+
+</td>
+<td width="33%" valign="top">
+
+### 🤖 AI for Quality
+
+*Agents that help QA think.*
+
+`Claude Code` `AI Agents`
+`Test Design with AI`
+`QA Skills & Guidance`
+`Human Review`
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:2DD4BF,100:0D1117&section=header" width="100%" alt="divider" />
+</div>
+
+## 🧬 Tech Stack
+
+<div align="center">
+
+#### 🧪 Testing
+
+![Cypress](https://img.shields.io/badge/Cypress-0D1117?style=for-the-badge&logo=cypress&logoColor=2DD4BF&labelColor=0D1117)
+![Playwright](https://img.shields.io/badge/Playwright-0D1117?style=for-the-badge&logo=playwright&logoColor=2EAD33&labelColor=0D1117)
+![WebdriverIO](https://img.shields.io/badge/WebdriverIO-0D1117?style=for-the-badge&logo=webdriverio&logoColor=EA5906&labelColor=0D1117)
+![Appium](https://img.shields.io/badge/Appium-0D1117?style=for-the-badge&logo=appium&logoColor=A78BFA&labelColor=0D1117)
+![k6](https://img.shields.io/badge/k6-0D1117?style=for-the-badge&logo=k6&logoColor=7D64FF&labelColor=0D1117)
+![Postman](https://img.shields.io/badge/Postman-0D1117?style=for-the-badge&logo=postman&logoColor=FF6C37&labelColor=0D1117)
+![Mocha](https://img.shields.io/badge/Mocha-0D1117?style=for-the-badge&logo=mocha&logoColor=A0785A&labelColor=0D1117)
+![Gherkin](https://img.shields.io/badge/Gherkin_%2F_BDD-0D1117?style=for-the-badge&logo=cucumber&logoColor=23D96C&labelColor=0D1117)
+
+#### 📊 Reports, CI & Cloud
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0D1117?style=for-the-badge&logo=githubactions&logoColor=2088FF&labelColor=0D1117)
+![Jenkins](https://img.shields.io/badge/Jenkins-0D1117?style=for-the-badge&logo=jenkins&logoColor=D24939&labelColor=0D1117)
+![Allure](https://img.shields.io/badge/Allure_Report-0D1117?style=for-the-badge&logo=qase&logoColor=FF6C37&labelColor=0D1117)
+![Cypress Cloud](https://img.shields.io/badge/Cypress_Cloud-0D1117?style=for-the-badge&logo=cypress&logoColor=0FB5AE&labelColor=0D1117)
+![Sauce Labs](https://img.shields.io/badge/Sauce_Labs-0D1117?style=for-the-badge&logo=saucelabs&logoColor=E2231A&labelColor=0D1117)
+![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-0D1117?style=for-the-badge&logo=githubpages&logoColor=FFFFFF&labelColor=0D1117)
+
+#### 💻 Languages & Tools
+
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=0D1117)
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=nodedotjs&logoColor=2DD4BF&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=FFD43B&labelColor=0D1117)
+![Dart](https://img.shields.io/badge/Dart_%2F_Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032&labelColor=0D1117)
+![Jira](https://img.shields.io/badge/Jira-0D1117?style=for-the-badge&logo=jira&logoColor=0052CC&labelColor=0D1117)
+![Claude](https://img.shields.io/badge/Claude_Code-0D1117?style=for-the-badge&logo=anthropic&logoColor=D97757&labelColor=0D1117)
+
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:2DD4BF,100:0D1117&section=header" width="100%" alt="divider" />
+</div>
+
+## 🗂️ QA Portfolio
+
+<div align="center">
+
+![Projects](https://img.shields.io/badge/QA_projects-12-0D1117?style=for-the-badge&labelColor=0D1117&color=2DD4BF)
+![Test types](https://img.shields.io/badge/test_types-6-0D1117?style=for-the-badge&labelColor=0D1117&color=0FB5AE)
+![CI](https://img.shields.io/badge/tests_in_CI-126%2F126_passing-0D1117?style=for-the-badge&labelColor=0D1117&color=A3E635)
+
+</div>
+
+### ⭐ Highlights
+
+| Project | What I did | Result |
+|---|---|---|
+| 🧪 [**qa-automation-lab**](https://github.com/gustavoanderson/qa-automation-lab) | Built an app with quality from day one: code guards, logic tests, manual, E2E, accessibility, mobile and CI | **22/22** E2E · **17/17** logic · **11/11** manual · **4/4** viewports |
+| ⚙️ [**ci-cd-github-actions**](https://github.com/gustavoanderson/ci-cd-github-actions) | Cypress and Playwright running in parallel, one unified Allure report published on GitHub Pages | **126/126** tests passing · [live report ↗](https://gustavoanderson.github.io/ci-cd-github-actions/) |
+| ⚡ [**hub-de-leitura-teste-de-carga-k6**](https://github.com/gustavoanderson/hub-de-leitura-teste-de-carga-k6) | Load and stress tests from 2 to 80 concurrent users with thresholds | **0%** errors · found the **bcrypt bottleneck** (p95 16× slower at peak) |
+
+### 🖥️ UI / E2E
+
+| Project | What I did | Result |
+|---|---|---|
+| [cypress-lists](https://github.com/gustavoanderson/cypress-lists) | 5 user journeys of a book platform, one scenario in 4 maturity levels up to Page Object | **23** scenarios · videos + Cypress Cloud |
+| [testing-lojaebac-ui-with-cypress-and-faker](https://github.com/gustavoanderson/testing-lojaebac-ui-with-cypress-and-faker) | Sign-up, login, account and cart on a live WooCommerce store, with Faker | **14** scenarios · negative auth tests |
+| [cypress-e2e-test-ecommerceshop](https://github.com/gustavoanderson/cypress-e2e-test-ecommerceshop) | Full purchase journey, from login to "order received" | **7-step** end-to-end flow |
+| [hub-de-leitura-cypress-ui](https://github.com/gustavoanderson/hub-de-leitura-cypress-ui) | Contact form validation, one required field per test | **4/4** required fields covered |
+
+### 🔌 API
+
+| Project | What I did | Result |
+|---|---|---|
+| [teste-api-serverest-cypress-jenkins](https://github.com/gustavoanderson/teste-api-serverest-cypress-jenkins) | REST API tests with Joi contract validation, running in a Jenkins pipeline | **13** scenarios · CRUD **4/4** methods |
+| [hub-de-leitura-testando-api](https://github.com/gustavoanderson/hub-de-leitura-testando-api) | Full user CRUD with token auth and self-created test data | **9** scenarios · negative validation |
+| [postman-serverest](https://github.com/gustavoanderson/postman-serverest) | Postman collection with automatic token capture | **8** requests · **6** assertions |
+
+### 📱 Mobile · 🥒 BDD
+
+| Project | What I did | Result |
+|---|---|---|
+| [saucelab-appium-mobiletest](https://github.com/gustavoanderson/saucelab-appium-mobiletest) | Android app login on a Sauce Labs cloud device, Page Objects and Allure | **3/3** runs passing · screenshot evidence |
+| [practicing-with-Gherkin](https://github.com/gustavoanderson/practicing-with-Gherkin) | BDD specs for login, product and checkout, with equivalence partitioning | **10** scenarios · **7** error cases |
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:2DD4BF,100:0D1117&section=header" width="100%" alt="divider" />
+</div>
+
+## 🤖 Building with AI — DevLingo
+
+[![Repository](https://img.shields.io/badge/Repository-DevLingo-0D1117?style=for-the-badge&logo=github&logoColor=2DD4BF&labelColor=0D1117)](https://github.com/gustavoanderson/DevLingo)
+[![Download](https://img.shields.io/badge/Download-Releases-0D1117?style=for-the-badge&logo=android&logoColor=3DDC84&labelColor=0D1117)](https://github.com/gustavoanderson/DevLingo/releases)
+![Flutter](https://img.shields.io/badge/Flutter-0D1117?style=for-the-badge&logo=flutter&logoColor=02569B&labelColor=0D1117)
+![Firebase](https://img.shields.io/badge/Firebase-0D1117?style=for-the-badge&logo=firebase&logoColor=FFCA28&labelColor=0D1117)
+![SQLite](https://img.shields.io/badge/SQLite-offline--first-0D1117?style=for-the-badge&logo=sqlite&logoColor=0FB5AE&labelColor=0D1117)
+
+> **A Duolingo-style app to learn programming in Portuguese, on Android and in the browser.**
+
+I built it with Claude Code to keep practicing software development on the go (bus, subway, a ride). Short lessons, an AI-powered mascot and Python scripts that validate the lesson content.
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gustavoanderson/DevLingo/main/docs/imagens/banner.png" alt="DevLingo" width="80%" />
+</p>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=2&color=0:0D1117,50:2DD4BF,100:0D1117&section=header" width="100%" alt="divider" />
+</div>
+
+## 🧩 How I Test
+
+```text
+Negative scenarios        >  happy path only
+Response time             >  status 200
+Contract validation       >  assumed structure
+Tests in the pipeline     >  manual retesting
+Evidence and reports      >  "it works on my machine"
+Clear acceptance criteria >  vague requirements
+One failure, one cause    >  tests that hide the problem
+```
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gustavoanderson&theme=github_dark"
+  alt="Top languages by repository"
+  height="180em"
+/>
+<img
+  src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gustavoanderson&theme=github_dark"
+  alt="Top languages by commit"
+  height="180em"
+/>
+
+<img
+  src="https://streak-stats.demolab.com/?user=gustavoanderson&theme=dark&hide_border=true&background=0D1117&ring=2DD4BF&fire=0FB5AE&currStreakLabel=2DD4BF&sideLabels=C9D1D9&dates=8B949E"
+  alt="Contributions"
+  height="180em"
+/>
+
+</div>
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:0FB5AE,50:2DD4BF,100:0E3A5C&section=header" width="100%" alt="divider" />
+
+# 🇧🇷 Sobre mim
+
+</div>
+
+Sou o **Gustavo Anderson**, engenheiro de QA de Curitiba. Trabalho com qualidade de software desde 2023, testando uma plataforma de estudos online (simulados e listas de exercícios) com testes manuais e exploratórios, e construo suítes de testes automatizados cobrindo interface, API, mobile e performance.
+
+Cheguei ao QA pelo caminho longo. Foram **mais de 7 anos em multinacionais de telecom (Huawei e TIM)** como gerente de projetos de implantação de rede, onde um detalhe esquecido significava um site que não entrava no ar. Também atuei em suporte técnico e customer success, cuidando de contas enterprise com risco de cancelamento. Foi ali que aprendi que a maioria dos bugs é encontrada primeiro pelo cliente, e é exatamente isso que quero evitar.
+
+> ### ✅ Encontrar o problema antes do cliente, e deixar evidência de que foi testado.
+
+Hoje divido meu tempo entre três frentes: **automação de testes** em todas as camadas, **qualidade dentro do pipeline** (CI, relatórios, critérios de performance) e **IA aplicada ao QA**, construindo agentes com o Claude para orientar atividades de QA e acelerar a automação.
+
+```text
+▸ Principal      QA · Automação de Testes · Cypress · Playwright
+▸ Secundário     Testes de API e Performance · CI/CD · Mobile (Appium)
+▸ Em evolução    QA assistido por IA · Agentes com Claude · Claude Code
+```
+
+## 🗂️ Portfólio de QA
+
+| Tipo | Projetos | Destaque |
+|---|---|---|
+| 🧪 Qualidade de ponta a ponta | [qa-automation-lab](https://github.com/gustavoanderson/qa-automation-lab) | **22/22** E2E, **17/17** lógica, acessibilidade e mobile |
+| ⚙️ CI/CD | [ci-cd-github-actions](https://github.com/gustavoanderson/ci-cd-github-actions) | **126/126** testes, Cypress + Playwright, Allure no GitHub Pages |
+| ⚡ Performance | [hub-de-leitura-teste-de-carga-k6](https://github.com/gustavoanderson/hub-de-leitura-teste-de-carga-k6) | Até **80 usuários**, **0%** de erro, gargalo identificado |
+| 🖥️ UI / E2E | [cypress-lists](https://github.com/gustavoanderson/cypress-lists) · [testing-lojaebac](https://github.com/gustavoanderson/testing-lojaebac-ui-with-cypress-and-faker) · [ecommerceshop](https://github.com/gustavoanderson/cypress-e2e-test-ecommerceshop) · [hub-de-leitura-cypress-ui](https://github.com/gustavoanderson/hub-de-leitura-cypress-ui) | Page Objects, Faker, Cypress Cloud e jornada de compra completa |
+| 🔌 API | [serverest-cypress-jenkins](https://github.com/gustavoanderson/teste-api-serverest-cypress-jenkins) · [hub-de-leitura-testando-api](https://github.com/gustavoanderson/hub-de-leitura-testando-api) · [postman-serverest](https://github.com/gustavoanderson/postman-serverest) | Contrato com Joi, pipeline Jenkins e autenticação por token |
+| 📱 Mobile | [saucelab-appium-mobiletest](https://github.com/gustavoanderson/saucelab-appium-mobiletest) | Android na nuvem da Sauce Labs, **3/3** execuções aprovadas |
+| 🥒 BDD | [practicing-with-Gherkin](https://github.com/gustavoanderson/practicing-with-Gherkin) | **10** cenários, **7** de erro, particionamento de equivalência |
+
+## 🤖 Construindo com IA — DevLingo
+
+App no estilo Duolingo para aprender programação em português, no Android e no navegador. Construí com o Claude Code para continuar praticando desenvolvimento em qualquer lugar (ônibus, metrô, carona). [Ver repositório ↗](https://github.com/gustavoanderson/DevLingo) · [Baixar ↗](https://github.com/gustavoanderson/DevLingo/releases)
+
+## 🧩 Como eu testo
+
+```text
+Cenários negativos        >  só o caminho feliz
+Tempo de resposta         >  status 200
+Validação de contrato     >  estrutura presumida
+Testes no pipeline        >  reteste manual
+Evidência e relatório     >  "na minha máquina funciona"
+Critério de aceite claro  >  requisito vago
+Uma falha, uma causa      >  teste que esconde o problema
+```
+
+<div align="center">
+
+## 📬 Vamos conversar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-gustavo--anderson-0D1117?style=for-the-badge&logo=linkedin&logoColor=2DD4BF&labelColor=0D1117)](https://www.linkedin.com/in/gustavo-anderson)
+[![Email](https://img.shields.io/badge/Email-gustavoanderson.me@gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=0FB5AE&labelColor=0D1117)](mailto:gustavoanderson.me@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-gustavoanderson-0D1117?style=for-the-badge&logo=github&logoColor=FFFFFF&labelColor=0D1117)](https://github.com/gustavoanderson)
+
+**[↑ Back to English](#-about-me)**
+
+<img src="https://komarev.com/ghpvc/?username=gustavoanderson&style=for-the-badge&color=2DD4BF&label=PROFILE+VIEWS" alt="Profile views" />
+
+<img src="./assets/footer.svg" width="100%" alt="Tested. Then shipped." />
+
+</div>
