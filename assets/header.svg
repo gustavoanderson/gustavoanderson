@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-label="Gustavo Anderson — QA Engineer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0A1628"/>
+      <stop offset="0.6" stop-color="#0E3A5C"/>
+      <stop offset="1" stop-color="#0F766E"/>
+    </linearGradient>
+    <linearGradient id="w1" x1="0" x2="1">
+      <stop offset="0" stop-color="#0FB5AE" stop-opacity="0.55"/>
+      <stop offset="1" stop-color="#2DD4BF" stop-opacity="0.55"/>
+    </linearGradient>
+    <linearGradient id="w2" x1="0" x2="1">
+      <stop offset="0" stop-color="#2DD4BF" stop-opacity="0.35"/>
+      <stop offset="1" stop-color="#7CF5C8" stop-opacity="0.35"/>
+    </linearGradient>
+    <style>
+      .wave { animation: drift 9s linear infinite; }
+      .wave2 { animation: drift 14s linear infinite reverse; }
+      .wave3 { animation: drift 20s linear infinite; }
+      @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-1000px); } }
+      .title { font: 800 56px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; animation: rise 1.2s ease-out both; }
+      .sub { font: 600 19px 'JetBrains Mono', 'Fira Code', Consolas, monospace; fill: #7CF5C8; letter-spacing: 1px; animation: rise 1.2s ease-out 0.4s both; }
+      .dot { fill: #A3E635; animation: pulse 2s ease-in-out infinite; }
+      @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
+      @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.25; } }
+    </style>
+  </defs>
+  <rect width="1000" height="240" fill="url(#bg)"/>
+  <g class="wave3">
+    <path fill="url(#w2)" d="M0 180 Q125 150 250 180 T500 180 T750 180 T1000 180 T1250 180 T1500 180 T1750 180 T2000 180 V240 H0 Z"/>
+  </g>
+  <g class="wave2">
+    <path fill="url(#w1)" d="M0 195 Q125 170 250 195 T500 195 T750 195 T1000 195 T1250 195 T1500 195 T1750 195 T2000 195 V240 H0 Z"/>
+  </g>
+  <g class="wave">
+    <path fill="#0FB5AE" fill-opacity="0.8" d="M0 212 Q125 195 250 212 T500 212 T750 212 T1000 212 T1250 212 T1500 212 T1750 212 T2000 212 V240 H0 Z"/>
+  </g>
+  <text class="title" x="500" y="98" text-anchor="middle">Gustavo Anderson</text>
+  <circle class="dot" cx="203" cy="136" r="6"/>
+  <text class="sub" x="510" y="142" text-anchor="middle">QA Engineer · Test Automation · AI for Quality</text>
+</svg>
