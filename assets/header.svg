@@ -18,8 +18,8 @@
       .wave2 { animation: drift 14s linear infinite reverse; }
       .wave3 { animation: drift 20s linear infinite; }
       @keyframes drift { from { transform: translateX(0); } to { transform: translateX(-1000px); } }
-      .title { font: 800 56px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; animation: rise 1.2s ease-out both; }
-      .sub { font: 600 19px 'JetBrains Mono', 'Fira Code', Consolas, monospace; fill: #7CF5C8; letter-spacing: 1px; animation: rise 1.2s ease-out 0.4s both; }
+      .title { font: 800 56px 'Segoe UI', Ubuntu, 'Helvetica Neue', Arial, sans-serif; fill: #FFFFFF; }
+      .sub { font: 600 19px 'JetBrains Mono', 'Fira Code', Consolas, monospace; fill: #7CF5C8; letter-spacing: 1px; }
       .dot { fill: #A3E635; animation: pulse 2s ease-in-out infinite; }
       @keyframes rise { from { opacity: 0; transform: translateY(12px); } to { opacity: 1; transform: translateY(0); } }
       @keyframes pulse { 0%,100% { opacity: 1; } 50% { opacity: 0.25; } }
